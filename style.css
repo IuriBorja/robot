@@ -36,6 +36,7 @@ h1 {
 	width: 300px; 
 	height: 150px;
 	display: flex; 
+	justify-content: center;
 } 
 
 .left_arm, .right_arm { 
@@ -56,6 +57,7 @@ h1 {
 	width: 200px; 
 	height: 200px;
 	border-radius: 0 0 50px 50px; 
+	
 } 
 
 .lower_body { 
